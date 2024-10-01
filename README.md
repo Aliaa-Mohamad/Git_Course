@@ -1,6 +1,7 @@
 # Git_Course
 For ElZero Web School Git Course
 
+# Project Notes 1 #
 ## Project Notes 2 #
 ### Project Notes 3 #
 #### Project Notes 4 #
